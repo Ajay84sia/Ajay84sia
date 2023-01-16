@@ -93,6 +93,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <br/>
   </div>
   
-  
-<!-- ![](https://raw.githubusercontent.com/dev-Imsaurabh/github-stats/master/generated/overview.svg#gh-light-mode-only) -->
+  ## 📊 Statistics  
+<!-- github status  -->
 
