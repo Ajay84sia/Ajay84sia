@@ -10,12 +10,12 @@ I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, NodeJS. I a
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 </p>
 <hr/>
-<!--<div align="center">
-<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"/>
-</div>-->
-     <a href="#" margin-left="100px" align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></img></a>
-     <hr/>
-     <div style="display:flex">
+
+  
+     <p align="center" color:"red">
+     <a href="">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></a>
+      </p>
   
  <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"> 
 <img src="https://komarev.com/ghpvc/?username=ajay84sia&label=Profile%20views&color=0e75b6&style=flat" alt="ajay84sia" />
