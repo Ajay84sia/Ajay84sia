@@ -44,13 +44,11 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <!-- - 📄 Download my <a href="https://drive.google.com/file/d/1vhOrWvGqdCA9NHk8qL77O99A3C2qZnf7/view?usp=share_link" target="_target">Resume</a> -->
 
 
-<h3 align="left">Connect with me : &nbsp;
-<!-- <p align="left"> -->
+<!-- <h3 align="left">Connect with me : &nbsp;
 <a href="https://linkedin.com/in/ajay-84sia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-84sia" height="30" width="40" /></a>
 <a href="https://fb.com/ajay.84sia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ajay.84sia" height="30" width="40" /></a>
 <a href="https://instagram.com/ajay.84sia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajay.84sia" height="30" width="40" /></a>
-
-</h3>
+</h3> -->
 
 <br/>
 <h2>🥇 Technical Skills:  </h2>  
