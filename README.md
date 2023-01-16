@@ -23,7 +23,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajay84sia" alt="ajay84sia" /></a> <img src="https://komarev.com/ghpvc/?username=ajay84sia&label=Profile%20views&color=0e75b6&style=flat" alt="ajay84sia" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajay84sia" alt="ajay84sia" /></a> &nbsp; &nbsp; &nbsp; <img src="https://komarev.com/ghpvc/?username=ajay84sia&label=Profile%20views&color=0e75b6&style=flat" alt="ajay84sia" /></p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
  <img align="right" src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" width="450" height="280"/>
