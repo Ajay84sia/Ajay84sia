@@ -10,9 +10,9 @@ I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, NodeJS. I a
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 </p>
 <hr/>
-<!--<div align="center">
+<div align="center">
 <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"/>
-</div>-->
+</div>
 <a href="#" margin-left="100px" align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></img></a>
      <hr/>
      <div style="display:flex">
