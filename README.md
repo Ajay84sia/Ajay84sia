@@ -51,7 +51,8 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <a href="https://instagram.com/ajay.84sia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajay.84sia" height="30" width="40" /></a>
 </p>
 
-
+<br/>
+<br/>
 <h2>🥇 Technical Skills:  </h2>  
 
  <div align="center"><h3 align="center">Frontend</h3>
@@ -94,6 +95,5 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
   </div>
   
   
-![](https://raw.githubusercontent.com/dev-Imsaurabh/github-stats/master/generated/overview.svg#gh-light-mode-only)
+<!-- ![](https://raw.githubusercontent.com/dev-Imsaurabh/github-stats/master/generated/overview.svg#gh-light-mode-only) -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay84sia&" alt="ajay84sia" /></p>
