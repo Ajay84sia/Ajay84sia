@@ -101,8 +101,8 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <img align="right" src="https://streak-stats.demolab.com/?user=Ajay84sia&theme=dark&hide_border=true&theme=react" width="46%" />
 </div>
 <br/>
-
+<br/>
 <div>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ajay84sia&theme=2077" width="46%" />
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ajay84sia&theme=2077" width="46%" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ajay84sia&theme=2077" width="45%" />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ajay84sia&theme=2077" width="45%" />
 </div>
