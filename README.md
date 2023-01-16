@@ -26,7 +26,8 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajay84sia" alt="ajay84sia" /></a> &nbsp; &nbsp; &nbsp; <img src="https://komarev.com/ghpvc/?username=ajay84sia&label=Profile%20views&color=0e75b6&style=flat" alt="ajay84sia" /></p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
- <img align="right" src="[https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif](https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966)" width="450" height="280"/>
+
+ <img align="right" src="[https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif](https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966)" width="50%" />
  
 - 🔭 I’m currently working on **Frontend & Backend**
 
