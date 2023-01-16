@@ -113,4 +113,4 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 </div>
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajay84sia&theme=2077">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajay84sia&theme=2077 width="100%">
