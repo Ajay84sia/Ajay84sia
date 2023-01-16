@@ -1,8 +1,6 @@
 <h1 align="center">
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://www.linkedin.com/in/ajay-84sia">Ajay 💻</a>!
 </h1> 
-<img src="https://komarev.com/ghpvc/?username=ajay84sia&label=Profile%20views&color=0e75b6&style=flat" alt="ajay84sia" />
- 
 <h3 align="center">A passionate full stack web developer from India </h3>
 <p align="left" style="max-width:40%">
 From New Delhi, India. I am a technology enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web-applications.
@@ -18,7 +16,9 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
      <a href="#" margin-left="100px" align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></img></a>
      <hr/>
      <div style="display:flex">
-
+  
+ <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"> 
+<img src="https://komarev.com/ghpvc/?username=ajay84sia&label=Profile%20views&color=0e75b6&style=flat" alt="ajay84sia" />
 
 <!-- <p align="left">  </p> -->
 
