@@ -3,7 +3,7 @@
 </h1> 
 <h3 align="center">A passionate full stack web developer from India </h3>
 <p align="left" style="max-width:40%">
-From New Delhi, India. I am a technology enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web-applications.
+I am a tech-enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web-applications.
 
 I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, NodeJS. I am good in data structure and algorithms.
 
