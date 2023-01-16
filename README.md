@@ -117,5 +117,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajay84sia&theme=2077" style="height: 300px"  />                                 </div>                                                                                       
                                                                                                                              
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Ajay84sia&theme=react-dark&hide_border=true" /></a>                                                                                                                             
+  <a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Ajay84sia&theme=react-dark&hide_border=true" /></a>    
+  
+  ![](https://github-profile-trophy.vercel.app/?username=Ajay84sia&column=-1&theme=chalk&rank=-?&margin-w=15)
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
