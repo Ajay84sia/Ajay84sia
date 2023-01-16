@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Ajay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>  
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">A passionate full stack web developer from India  <img src="https://komarev.com/ghpvc/?username=ajay84sia&label=Profile%20views&color=0e75b6&style=flat" alt="ajay84sia" /></h3>
 <p align="left" style="max-width:40%">
 From New Delhi, India. I am a technology enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web-applications.
 
@@ -16,7 +16,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
      <div style="display:flex">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay84sia&label=Profile%20views&color=0e75b6&style=flat" alt="ajay84sia" /> </p>
+<!-- <p align="left">  </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajay84sia" alt="ajay84sia" /></a> </p>
 
