@@ -33,7 +33,8 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👯 I’m looking to collaborate on **<a href="https://www.linkedin.com/in/ajay-84sia/" target="_blank">LinkedIn</a> & GitHub**
+- 👯 I’m looking to collaborate on **<a href="https://www.linkedin.com/in/ajay-84sia/" target="_blank">LinkedIn</a> & <a href="https://github.com/Ajay84sia" target="_blank">GitHub</a>**
+- 
 
 - 📫 Reach me on **ajay9679339@gmail.com** 
 
