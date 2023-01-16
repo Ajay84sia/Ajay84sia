@@ -94,7 +94,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
   </div>
 
 
-[## 📊 Statistics  
+## 📊 Statistics  
 <!-- github status  -->
-](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ajay84sia&theme=2077))
-
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ajay84sia&theme=2077" width="49%" />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ajay84sia&theme=2077&utcOffset=8" width="49%" />
