@@ -92,7 +92,9 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
    <br/>
 <br/>
   </div>
-  
-  ## 📊 Statistics  
+
+
+[## 📊 Statistics  
 <!-- github status  -->
+](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ajay84sia&theme=2077))
 
