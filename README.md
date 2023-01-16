@@ -21,15 +21,25 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
  <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"> 
 <img src="https://komarev.com/ghpvc/?username=ajay84sia&label=Profile%20views&color=0e75b6&style=flat" alt="ajay84sia" />
 
-<!-- <p align="left">  </p> -->
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajay84sia" alt="ajay84sia" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
  <img align="right" src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" width="450" height="280"/>
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🔭 I’m currently working on **Frontend & Backend**
 
-- ⚡ Fun fact **I think I am funny XD**
+- 🌱 I’m currently learning **MERN stack**
+
+- 👯 I’m looking to collaborate on **<a href="https://www.linkedin.com/in/dev-saurabh-kumar" target="_blank">LinkedIn</a> & GitHub**
+
+- 📫 Reach me on **sau4478@gmail.com** 
+
+- 💬 Open for your suggestions
+ 
+- 🌐 Have a look at my <a href="https://dev-imsaurabh.github.io" target="_blank">Portfolio</a>
+
+- 📄 Download my <a href="https://drive.google.com/file/d/1vhOrWvGqdCA9NHk8qL77O99A3C2qZnf7/view?usp=share_link" target="_target">Resume</a>
 
 
 <h3 align="left">Connect with me:</h3>
