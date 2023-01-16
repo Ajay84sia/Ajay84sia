@@ -97,6 +97,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 ## 📊 Statistics  
 <!-- github status  -->
 <div>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ajay84sia&theme=2077" width="45%" />
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ajay84sia&theme=2077&utcOffset=8" width="45%" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ajay84sia&theme=2077" width="46%" />
+<img align="right" src="https://streak-stats.demolab.com/?user=Ajay84sia&theme=dark&hide_border=true&theme=react" width="46%" />
 </div>
