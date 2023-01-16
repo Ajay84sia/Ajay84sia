@@ -116,4 +116,4 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajay84sia&theme=2077 width="100%">
                                                                                                                              
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Saurabh Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Ajay84sia=react-dark&hide_border=true" /></a>                                                                                                                             
+  <a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Ajay84sia&theme=react-dark&hide_border=true" /></a>                                                                                                                             
