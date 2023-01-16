@@ -114,7 +114,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">    
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajay84sia&theme=2077" style="width: 50%" height="268" />                                 </div>                                                                                       
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajay84sia&theme=2077" style="height: 300px"  />                                 </div>                                                                                       
                                                                                                                              
  <h2 align="left">⚡Activity Graph:</h2>
   <a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Ajay84sia&theme=react-dark&hide_border=true" /></a>                                                                                                                             
