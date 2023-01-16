@@ -108,7 +108,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div>
-  <br/>
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ajay84sia&theme=2077" width="45%" />
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ajay84sia&theme=2077" width="45%" />
 </div>
