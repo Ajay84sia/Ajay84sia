@@ -1,4 +1,10 @@
-<h1 align="center">Hi! There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ajay</h1>
+<h1 align="center">Hi , I'm Ajay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--<div align="center">
+<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"/>
+</div>-->
+     <a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></img></a>
+     <hr/>
+     <div style="display:flex">
 <h3 align="center">A passionate full stack web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay84sia&label=Profile%20views&color=0e75b6&style=flat" alt="ajay84sia" /> </p>
