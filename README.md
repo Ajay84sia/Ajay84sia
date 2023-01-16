@@ -49,7 +49,8 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <a href="https://fb.com/ajay.84sia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ajay.84sia" height="30" width="40" /></a>
 <a href="https://instagram.com/ajay.84sia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajay.84sia" height="30" width="40" /></a>
 </h3> -->
-
+<br/>
+<br/>
 <br/>
 <h2>🥇 Technical Skills:  </h2>  
 
