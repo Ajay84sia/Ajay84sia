@@ -118,8 +118,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
   <div align="center">    
 <img src="https://github-profile-trophy.vercel.app/?username=Ajay84sia&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"  />                                 </div>  
 
-![Snake animation](https://github.com/Ajay84sia/Ajay84sia/blob/output/github-contribution-grid-snake.svg)
-
-
+<img align="center" src="https://github.com/Ajay84sia/Ajay84sia/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
 
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
