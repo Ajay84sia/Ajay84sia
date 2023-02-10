@@ -8,12 +8,18 @@ I am a tech-enthusiast, competent, well-focused full stack developer👨‍💻.
 I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, NodeJS. I am good in data structure and algorithms.
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-</p>
+<!-- </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <p align="center" color:"red">
      <a href="">
           <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure+and+Algorithm;MERN+Stack+Web+Developer;Full+Stack+Web+Developer"></a>
-      </p>
+      </p> -->
+      
+      <p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure+and++Algorithm;MERN+Stack+Web+Developer;Full+Stack+Web+Developer"></a>
+
+</p>
       
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
