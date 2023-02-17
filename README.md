@@ -39,9 +39,14 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 - 👯 I’m looking to collaborate on **<a href="https://www.linkedin.com/in/ajay-84sia/" target="_blank">LinkedIn</a> & <a href="https://github.com/Ajay84sia" target="_blank">GitHub</a>**
 
-<!-- - 📫 Reach me on **ajay9679339@gmail.com**  -->
+- 📫 Reach me on **<a href="https://linkfree.eddiehub.io/Ajay84sia" target="_blank">Linkfree</a>**
 
 - 💬 Open for your suggestions
+
+<!-- - 📫 Reach me on **ajay9679339@gmail.com**  -->
+
+
+
  
 <!-- - 🌐 Have a look at my <a href="https://dev-imsaurabh.github.io" target="_blank">Portfolio</a> -->
 
