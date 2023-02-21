@@ -4,14 +4,13 @@
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://www.linkedin.com/in/ajay-84sia">Ajay 💻</a>!
 </h1> 
 <h2 align="center">A passionate full stack web developer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
-<h4 align="left" style="max-width:40%" font-size="large">
+<h3 align="left" style="max-width:40%" >
 I am a tech-enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web-applications.
- 
  
 I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, NodeJS. I am good in data structure and algorithms.
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-</h4>
+</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <p align="center" color:"red">
      <a href="">
