@@ -4,7 +4,7 @@
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://www.linkedin.com/in/ajay-84sia">Ajay 💻</a>!
 </h1> 
 <h2 align="center">A passionate full stack web developer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
-<p align="left" style="max-width:40%">
+<p align="left" style="max-width:40%" font-size="large">
 I am a tech-enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web-applications.
 
 I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, NodeJS. I am good in data structure and algorithms.
