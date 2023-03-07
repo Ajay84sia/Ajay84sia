@@ -32,11 +32,11 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👯 I’m looking to collaborate on **<a href="https://www.linkedin.com/in/ajay-84sia/" target="_blank">LinkedIn</a> & <a href="https://github.com/Ajay84sia" target="_blank">GitHub</a>**
+- 👯 I’m looking to collaborate on **<a href="https://www.linkedin.com/in/ajay-84sia/" target="_blank" >LinkedIn</a> & <a href="https://github.com/Ajay84sia" target="_blank" >GitHub</a>**
 
-- 📫 My Portfolio **<a href="https://ajay84sia.github.io/" target="_blank">Portfolio</a>**
+- 📫 My Portfolio **<a href="https://ajay84sia.github.io/" target="_blank" >Portfolio</a>**
 
-- 📫 Reach me on **<a href="https://linkfree.eddiehub.io/Ajay84sia" target="_blank">Linkfree</a>**
+- 📫 Reach me on **<a href="https://linkfree.eddiehub.io/Ajay84sia" target="_blank" >Linkfree</a>**
 
 - 💬 Open for your suggestions
 
