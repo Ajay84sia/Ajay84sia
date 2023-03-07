@@ -14,12 +14,7 @@
      <a href="">
           <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure+and+Algorithm;MERN+Stack+Web+Developer;Full+Stack+Web+Developer"></a>
       </p>
-      
-<!-- <p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-<!--     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure+and++Algorithm;MERN+Stack+Web+Developer;Full+Stack+Web+Developer"></a>
-</p>  -->
-      
+       
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   
@@ -45,21 +40,9 @@
 
 - 💬 Open for your suggestions
 
-<!-- - 📫 Reach me on **ajay9679339@gmail.com**  -->
 
 
 
- 
-<!-- - 🌐 Have a look at my <a href="https://dev-imsaurabh.github.io" target="_blank">Portfolio</a> -->
-
-<!-- - 📄 Download my <a href="https://drive.google.com/file/d/1vhOrWvGqdCA9NHk8qL77O99A3C2qZnf7/view?usp=share_link" target="_target">Resume</a> -->
-
-
-<!-- <h3 align="left">Connect with me : &nbsp;
-<a href="https://linkedin.com/in/ajay-84sia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-84sia" height="30" width="40" /></a>
-<a href="https://fb.com/ajay.84sia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ajay.84sia" height="30" width="40" /></a>
-<a href="https://instagram.com/ajay.84sia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajay.84sia" height="30" width="40" /></a>
-</h3> -->
 <br/>
 <br/>
 <br/>
@@ -77,7 +60,6 @@
 
 <br/>
 <br/>
-<!--    <img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white' align='center' alt='next' /> -->
  <img src="https://img.shields.io/badge/Bootstrap-593D88?style=for-the-badge&logo=bootstrap&logoColor=white"  align="center" alt="bootstrap" />
   <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
   <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
@@ -91,7 +73,6 @@
  </div>
   
   <div align="center"><h3 align="center">Tools</h3> 
-<!--    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/> -->
    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
@@ -99,13 +80,10 @@
 <img src = "https://img.shields.io/badge/NPM-CA4245?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
    <img src="https://img.shields.io/badge/Visual%20Studio-%23007ACC.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
    <br/>
-<!--    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/> -->
-<!--     <img src='https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white' align='center' alt='storybook' /> -->
   </div>
 
 
 ## 📊 Statistics  
-<!-- github status  -->
 <div>
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ajay84sia&theme=2077" width="46%" />
   <br/>
