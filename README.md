@@ -24,8 +24,8 @@
 
 
 <p align="center"> 
- <img src="https://img.shields.io/github/followers/Ajay84sia?label=Followers&style=social" alt="followers-count"> 
  <img src="https://komarev.com/ghpvc/?username=ajay84sia&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views-count" />
+ <img src="https://img.shields.io/github/followers/Ajay84sia?label=Followers&style=social" alt="followers-count"> 
 </p>
 
 
