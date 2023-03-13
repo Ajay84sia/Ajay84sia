@@ -93,8 +93,7 @@
   <br/>
     <br/>
   <br/>
-<!-- <img align="right" src="https://streak-stats.demolab.com?user=Ajay84sia&theme=holi-theme" width="46%" /> -->
- [![GitHub Streak](https://streak-stats.demolab.com?user=Ajay84sia&theme=holi-theme)](https://git.io/streak-stats)
+<img align="right" src="https://streak-stats.demolab.com?user=Ajay84sia&theme=react" width="46%" />
 </div>
 <br/>
 <br/>
