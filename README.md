@@ -95,7 +95,7 @@
   <br/>
     <br/>
   <br/>
-<img align="right" src="https://streak-stats.demolab.com?user=Ajay84sia&theme=react&hide_border=true" width="46%" />
+<img align="right" src="https://streak-stats.demolab.com?user=Ajay84sia&theme=buefy-dark&hide_border=true" width="46%" />
 </div>
 <br/>
 <br/>
