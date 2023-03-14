@@ -39,9 +39,11 @@
 
 - 👯 I’m looking to collaborate on **<a href="https://www.linkedin.com/in/ajay-84sia/" target="_blank" >LinkedIn</a> & <a href="https://github.com/Ajay84sia" target="_blank" >GitHub</a>**
 
-- 📫 My Portfolio **<a href="https://ajay84sia.github.io/" target="_blank" >Portfolio</a>**
-
 - 📫 Reach me on **<a href="https://linkfree.eddiehub.io/Ajay84sia" target="_blank" >Linkfree</a>**
+
+- 🌐 Have a look at my <a href="https://ajay84sia.github.io/" target="_blank">Portfolio</a>
+
+- 📄 Download my <a href="https://drive.google.com/file/d/1FaGp-WVtNALfsCMVjZESGzTDR6q3SpRf/view?usp=sharing" target="_target">Resume</a>
 
 - 💬 Open for your suggestions
 
