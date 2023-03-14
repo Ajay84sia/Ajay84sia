@@ -27,7 +27,7 @@
  <img src="https://komarev.com/ghpvc/?username=ajay84sia&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views-count" />
  <img src="https://img.shields.io/github/followers/Ajay84sia?label=Followers&style=social" alt="followers-count"> 
 </p>
-
+<br/>
  <img align="right" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="50%"  />
  
   💫 About Me:
@@ -49,8 +49,7 @@
 
 <br/>
 <br/>
-<br/>
-<h2>🥇 Technical Skills:  </h2>  
+# 🥇 Technical Skills:   
 
  <div align="center"><h3 align="center">Frontend</h3>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
