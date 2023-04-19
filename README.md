@@ -33,9 +33,9 @@
  
   💫 About Me:
  
-- 🔭 I’m currently working on **Frontend & Backend**
+- 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **BackEnd**
 
 - 👯 I’m looking to collaborate on **<a href="https://www.linkedin.com/in/ajay-84sia/" target="_blank" >LinkedIn</a> & <a href="https://github.com/Ajay84sia" target="_blank" >GitHub</a>**
 
