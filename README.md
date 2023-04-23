@@ -81,7 +81,7 @@
 <img src="https://img.shields.io/badge/Express.js-%23323330.svg?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
  <img src="https://img.shields.io/badge/Nodemon-76D04B.svg?style=for-the-badge&logo=Nodemon&logoColor=white" align="center" alt="nodemon"/> 
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
-   <img src="https://img.shields.io/badge/M-Mongoose-red" align="center" alt="mongoose"/>
+   <img src="https://img.shields.io/badge/Mongoose-FB1911.svg?style=for-the-badge&logoColor=white" align="center" alt="mongoose"/>
  </div>
   
   <div align="center"><h3 align="center">Tools</h3> 
