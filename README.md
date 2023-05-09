@@ -18,7 +18,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   
- <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"> 
+ <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://jusmarktech.com/public/a/images/pages/web_development.gif"> 
 
 
 
