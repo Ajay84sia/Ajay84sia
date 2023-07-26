@@ -117,14 +117,17 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">    
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajay84sia&theme=2077" style="height: 300px"  />                                 </div>                                                                                       
-                                                                                                                             
+  <!---                                                                                                                           
  <h2 align="left">⚡Activity Graph:</h2>
   <a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Ajay84sia&theme=react-dark&hide_border=true" /></a>    
+  --->
   
   <div align="center">    
 <img src="https://github-profile-trophy.vercel.app/?username=Ajay84sia&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"  />                                 </div>  
 
+<!---  
 <img align="center" src="https://github.com/Ajay84sia/Ajay84sia/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
+--->
 
 ### ✍️ Random Dev Quote
   <div align="center">  
