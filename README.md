@@ -36,7 +36,7 @@
  
 - 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **BackEnd**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👯 I’m looking to collaborate on **<a href="https://www.linkedin.com/in/ajay-84sia/" target="_blank" >LinkedIn</a> & <a href="https://github.com/Ajay84sia" target="_blank" >GitHub</a>**
 
@@ -65,14 +65,15 @@
 <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' align='center' alt='typescript' />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"  align="center" alt="react-router" />
-
+ <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" align="center" alt="git"/>
+<img src="https://img.shields.io/badge/Angular-CA4245?style=for-the-badge&logo=angular&logoColor=white"  align="center" alt="react-router" />
 <br/>
 <br/>
  <img src="https://img.shields.io/badge/Bootstrap-593D88?style=for-the-badge&logo=bootstrap&logoColor=white"  align="center" alt="bootstrap" />
   <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
    <img src = "https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white" align="center" alt="material-ui"/>
 <img src = "https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" align="center" alt="styled-components"/>
-  <img src="https://img.shields.io/badge/Rest%20Api-000000.svg?style=for-the-badge&logo=Amazon-CloudWatch&logoColor=white" align="center" alt="restapi"/>
+<img src = "https://img.shields.io/badge/Tailwind%20CSS-%230ea5e9.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" align="center" alt="tailwind CSS"/>
  
   
 </div>
@@ -83,6 +84,8 @@
  <img src="https://img.shields.io/badge/Nodemon-76D04B.svg?style=for-the-badge&logo=Nodemon&logoColor=white" align="center" alt="nodemon"/> 
    <img src="https://img.shields.io/badge/Mongoose-FB1911.svg?style=for-the-badge&logoColor=white" align="center" alt="mongoose"/>
  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
+ <img src="https://img.shields.io/badge/Django-187f58.svg?style=for-the-badge&logo=django&logoColor=white" align="center" alt="Django"/>
+  <img src="https://img.shields.io/badge/Rest%20Api-000000.svg?style=for-the-badge&logo=Amazon-CloudWatch&logoColor=white" align="center" alt="restapi"/>
   <img src="https://img.shields.io/badge/Auth0-EB5424.svg?style=for-the-badge&logo=Auth0&logoColor=white" align="center" alt="Auth0"/>
   <img src="https://img.shields.io/badge/Stripe-008CDD.svg?style=for-the-badge&logo=Stripe&logoColor=white" align="center" alt="Stripe"/>
  </div>
