@@ -34,7 +34,7 @@
  
   💫 About Me:
  
-- 🔭 I’m currently working on **sGate Tech Solutions Pvt. Ltd.**
+- 🔭 I’m currently working at **sGate Tech Solutions Pvt. Ltd.**
 
 - 🌱 I’m currently learning **Generative AI**
 
