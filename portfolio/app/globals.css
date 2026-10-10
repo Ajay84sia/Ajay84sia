@@ -1,0 +1,11 @@
+@tailwind base;@tailwind components;@tailwind utilities;
+:root{--bg:#f4e9da;--fg:#2b2018;--mute:#76624f;--card:#fcf5ea;--line:#e3d0b8;--a:#c2410c;--b:#0f766e}
+.dark{--bg:#070b1a;--fg:#e8ebff;--mute:#8e95bd;--card:#0e1430;--line:#1d2650;--a:#a78bfa;--b:#22d3ee}
+html{scroll-behavior:smooth}body{background:radial-gradient(900px 500px at 10% -5%,#fbd9a8aa,transparent),radial-gradient(800px 500px at 100% 20%,#f6c3a455,transparent),var(--bg);background-attachment:fixed;color:var(--fg);font-family:var(--f-sans)}
+.grid-bg{background-image:linear-gradient(var(--line) 1px,transparent 1px),linear-gradient(90deg,var(--line) 1px,transparent 1px);background-size:44px 44px;mask-image:radial-gradient(ellipse at 50% 30%,#000 20%,transparent 70%)}
+.grad{background:linear-gradient(90deg,var(--a),var(--b));-webkit-background-clip:text;color:transparent}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;transition:.25s}
+.card:hover{border-color:var(--a);transform:translateY(-3px)}
+:focus-visible{outline:2px solid var(--b);outline-offset:3px}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+.dark body{background:var(--bg)}

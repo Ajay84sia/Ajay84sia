@@ -1,0 +1,150 @@
+{
+  "name": "Ajay",
+  "roles": [
+    "AI Application Developer",
+    "Generative AI Developer",
+    "GenAI Developer",
+    "AI Developer",
+    "GenAI Engineer"
+  ],
+  "location": "New Delhi, India",
+  "email": "ajay9679339@gmail.com",
+  "linkedin": "https://linkedin.com/in/ajay-84sia",
+  "site": "https://ajay84sia.github.io",
+  "github": "https://github.com/Ajay84sia",
+  "tagline": "I build LLM-powered apps: retrieval, evaluation and chat interfaces on top of production-grade web backends.",
+  "summary": "Software Engineer with about 3 years of professional experience building production web and backend applications, now specializing in AI application development and generative AI. I combine React, Node.js and REST API experience with LLM APIs, prompt engineering, RAG, embeddings, semantic search, vector databases and AI workflows.",
+  "pipeline": [
+    ["query", "\"Find full-stack engineers with RAG experience\""],
+    ["embed", "resume + JD chunks -> vectors"],
+    ["retrieve", "FAISS / Pinecone top-k matches"],
+    ["generate", "Gemini explains each match"]
+  ],
+  "stats": [
+    ["3+", "Years in production"],
+    ["3", "AI/GenAI projects"],
+    ["7", "Platforms shipped (Skart)"],
+    ["IBM", "GenAI & Multi-Agent cert (in progress)"]
+  ],
+  "skills": {
+    "Generative AI": [
+      "LLMs",
+      "LLMs API Integration",
+      "Prompt Engineering",
+      "AI Application Development"
+    ],
+    "AI Agents & Automation": [
+      "AI Agents",
+      "Agentic AI",
+      "Multi-Agent Systems",
+      "Tool/Function Calling",
+      "n8n"
+    ],
+    "RAG & Search": [
+      "RAG",
+      "Embeddings",
+      "Semantic Search",
+      "Vector Search",
+      "Document Processing",
+      "Chunking"
+    ],
+    "Languages": ["Python", "JavaScript", "TypeScript"],
+    "Backend & APIs": ["Node.js", "Express.js", "REST APIs"],
+    "Databases": ["PostgreSQL", "MongoDB", "MySQL", "Vector Databases"],
+    "Frontend": ["React.js", "React Native", "Tailwind CSS", "Next.js"],
+    "Tools": ["Streamlit", "Git", "GitHub", "Nginx", "RabbitMQ"],
+    "Documentation": ["Swagger/OpenAPI", "Postman", "Markdown"]
+  },
+  "projects": [
+    {
+      "title": "HireFlow",
+      "sub": "Intelligent Candidate Search & Evaluation",
+      "desc": [
+        "RAG-oriented app for semantic resume-to-job matching.",
+        "Embeds resumes and job descriptions into vector databases for structured retrieval.",
+        "Gemini generates explainable candidate evaluations.",
+        "Streamlit recruiter interface for search, retrieval and evaluation."
+      ],
+      "tech": [
+        "Python",
+        "Gemini API",
+        "RAG",
+        "FAISS/Pinecone",
+        "Pandas",
+        "Streamlit",
+        "Pydantic"
+      ],
+      "image": "/projects/hireflow.png"
+    },
+    {
+      "title": "ScamGuard AI",
+      "sub": "AI Scam Detection Application",
+      "desc": [
+        "Analyzes suspicious messages and flags scam indicators.",
+        "LLM-based analysis returns plain-language explanations.",
+        "Deployed publicly on Streamlit."
+      ],
+      "tech": ["Python", "LLM APIs", "Streamlit"],
+      "demo": "https://scamdetect.streamlit.app",
+      "code": "https://github.com/Ajay84sia/Scam_Guard_AI",
+      "image": "/projects/scamguard.png"
+    },
+    {
+      "title": "MindFlow AI",
+      "sub": "AI Chat Application",
+      "desc": [
+        "Responsive chat app connected to an n8n workflow through REST/webhook APIs.",
+        "Chat sessions, history, Markdown rendering and response handling.",
+        "Built to extend with new AI workflows."
+      ],
+      "tech": ["React", "Vite", "Tailwind CSS", "n8n", "REST APIs", "Markdown"],
+      "image": "/projects/mindflow.png"
+    }
+  ],
+  "experience": {
+    "company": "sGate Tech Solutions Pvt. Ltd.",
+    "role": "Software Engineer",
+    "period": "Nov 2023 - Present",
+    "points": [
+      "Build and maintain production web apps with React.js, JavaScript/TypeScript and Tailwind CSS.",
+      "Develop reusable UI components and responsive interfaces from product requirements.",
+      "Build Node.js REST APIs and backend services with databases and third-party APIs.",
+      "Troubleshoot, optimize performance and fix bugs across frontend and backend.",
+      "Maintain React Native mobile apps; work in Agile with Git/GitHub code reviews."
+    ]
+  },
+  "skart": {
+    "title": "Skart: Multi-Platform Logistics & Booking System",
+    "points": [
+      "Built and enhanced features across Booking, Hub, PUD, Admin and BackOffice/Sales platforms.",
+      "Developed REST APIs with Node.js, Express.js and PostgreSQL.",
+      "Wrote Swagger docs, built a full Postman collection from scratch and a PDF API reference.",
+      "Diagnosed production issues and fixed client-reported bugs by finding root causes.",
+      "Supported production releases and ongoing maintenance."
+    ],
+    "web": [
+      ["Booking", "booking.skart-express.com"],
+      ["Hub", "hub.skart-express.com"],
+      ["PUD", "pud.skart-express.com"],
+      ["Admin", "admin.skart-express.com"],
+      ["BackOffice / Sales", "backoffice.skart-express.com"]
+    ],
+    "mobile": [
+      ["Rider App", "React Native", "Internal rider application"],
+      ["Booking App", "Expo + Tailwind CSS", "Customer booking on mobile"]
+    ]
+  },
+  "education": [
+    [
+      "IBM Advanced Certification in Generative AI & Multi-Agent Systems",
+      "In progress"
+    ],
+    ["Full Stack Web Development, Masai School", "2022-2023"]
+  ],
+  "phone": "+91-7503089366",
+  "footer": {
+    "headline": "3+ years shipping production software.",
+    "line": "Now building AI applications with LLMs, RAG and agents."
+  },
+  "resume": "/Ajay_Resume.pdf"
+}

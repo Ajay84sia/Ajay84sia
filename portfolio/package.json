@@ -1,0 +1,24 @@
+{
+ "name": "ajay-portfolio",
+ "version": "1.0.0",
+ "private": true,
+ "scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start"
+ },
+ "dependencies": {
+  "next": "^14.2.0",
+  "react": "^18.3.0",
+  "react-dom": "^18.3.0",
+  "framer-motion": "^11.0.0",
+  "aos": "^2.3.4",
+  "next-themes": "^0.3.0",
+  "@emailjs/browser": "^4.4.1"
+ },
+ "devDependencies": {
+  "tailwindcss": "^3.4.0",
+  "postcss": "^8.4.0",
+  "autoprefixer": "^10.4.0"
+ }
+}
